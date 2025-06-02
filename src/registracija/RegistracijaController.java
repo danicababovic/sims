@@ -2,7 +2,7 @@ package registracija;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
+//pocetak rada
 public class RegistracijaController {
     private final RegistracijaView view;
     private final KorisnikMenadzer korisnikManager;
